@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+downloads
+images
+nb_images
+model_data
+pretrained-model
+data
+ConvolutionalNeuralNetworks/week2/ResNets/ResNet50.h5
+SequenceModels/week2/Emojify/data/glove.6B.50d.txt
+SequenceModels/week2/WordVectorRepresentation/data/glove.6B.50d.txt
